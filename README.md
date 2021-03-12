@@ -1,3 +1,34 @@
-# Django---DRF-basic-Rest-API-
+#Intructions to Install the project
 
-Medium Blog.  https://medium.com/@sjlouji10/django-rest-framework-creating-a-simple-api-in-15mins-with-drf-5e051ee531dd?source=friends_link&sk=234faf0703c6c6e0f99519fea63a7fac
+clone the repository
+
+
+1. Create Virtual Environment and activate it
+
+2. Install required libraries with Requirements.txt file
+    > pip install -r requirements.txt
+
+3. Creating a new Django Project and Initial setup for DRF
+    > cd drf
+    > python manage.py makemigrations
+    > python manage.py migrate
+    > python manage.py runserver
+
+
+## CREATE API View for Employee Details
+    > http://localhost:8000/employee/api/create
+    
+
+## LIST API View for Employee Details
+    > http://localhost:8000/employee/api
+
+
+## UPDATE API View for Employee (PUT or PATCH request)
+    > http://localhost:8000/employee/api/1     
+    
+    <note: here your _employee_id = 1>
+
+## DELETE API View for Employee Details
+    > http://localhost:8000/employee/api/1/delete
+
+    <note: here your _employee_id = 1>
