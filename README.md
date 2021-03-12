@@ -18,8 +18,11 @@
     python manage.py runserver
 
 4. Login Password
+    ```
     username: admin
+    
     password: admin
+    ```
 
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
@@ -44,4 +47,4 @@
      
      
 ## Feedback
-Any suggestion and feedback is welcome. You can e-mail to me
+Any suggestion and feedback is welcome. You can e-mail to me on <a href="pratikvnagdeve@gmail.com">pratikvnagdeve@gmail.com</a>
