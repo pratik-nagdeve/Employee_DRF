@@ -17,6 +17,10 @@
 
     python manage.py runserver
 
+4. Login Password
+    username: admin
+    password: admin
+
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
 
