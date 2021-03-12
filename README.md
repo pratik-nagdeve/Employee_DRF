@@ -26,9 +26,9 @@ clone the repository
 ## UPDATE API View for Employee (PUT or PATCH request)
     > http://localhost:8000/employee/api/1     
     
-    <note: here your _employee_id = 1>
+    <note: here your_employee_id = 1>
 
 ## DELETE API View for Employee Details
     > http://localhost:8000/employee/api/1/delete
 
-    <note: here your _employee_id = 1>
+    <note: here your_employee_id = 1>
