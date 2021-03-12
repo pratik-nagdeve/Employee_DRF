@@ -1,4 +1,4 @@
-#Intructions to Install the Employeed DRF project
+##Intructions to Install the Employeed DRF project
 
 clone the repository
 
@@ -15,19 +15,15 @@ clone the repository
     > python manage.py runserver
 
 ## LIST API View for Employee Details
-    > http://localhost:8000/employee/api
+     http://localhost:8000/employee/api
 
 
 ## CREATE API View for Employee Details (POST)
-    > http://localhost:8000/employee/api/create
+     http://localhost:8000/employee/api/create
 
 
 ## UPDATE API View for Employee (PUT or PATCH request)
-    > http://localhost:8000/employee/api/1     
-    
-    <note: here your_employee_id = 1>
+     http://localhost:8000/employee/api/1
 
 ## DELETE API View for Employee Details
-    > http://localhost:8000/employee/api/1/delete
-
-    <note: here your_employee_id = 1>
+     http://localhost:8000/employee/api/1/delete
