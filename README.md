@@ -20,6 +20,8 @@ clone the repository
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
 
+     ![Screenshot](GET.png)
+
      <img src="images/GET.png"> | <img src="images/GET_postman.png">
 
 
