@@ -1,20 +1,17 @@
 ## Intructions to Install the Employeed DRF project
 
-**Clone the repository**
-
-
 1. Create Virtual Environment and activate it
- > cd drf
+ 
 
    **Clone the repository**
     ```
-    git clone https://github.com/tadiparChinese/Employee_DRF
+    git clone https://github.com/tadiparChinese/Employee_DRF.git
     ```
 
    Once inside the project folder run: 
 
     virtualenv env
-    
+
    Activate virtualenv 
    On Windows, virtualenv (venv) creates a batch file called 
 
