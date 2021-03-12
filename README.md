@@ -45,11 +45,24 @@
 
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
+     
+   <img src="images/GET.png" alt="GET" width="75%"/>
+   
+   
+   <img src="images/GET_postman.png" alt="GET_postman" width="75%"/>
+
+
 
 
 ## CREATE API View for Employee Details (POST)
      http://localhost:8000/employee/api/create
-
+   <img src="images/POST.png" alt="POST" width="75%"/>
+   
+   
+   <img src="images/POST_postman.png" alt="POST_postman" width="75%"/>
+   
+   
+   
 
 ## UPDATE API View for Employee (PUT or PATCH request)
      http://localhost:8000/employee/api/<employee_id>
@@ -57,12 +70,25 @@
      example:
      http://localhost:8000/employee/api/1
      
+   <img src="images/PUT.png" alt="PUT" width="75%"/>
+   
+   
+   <img src="images/PUT_postman.png" alt="PUT_postman" width="75%"/>
+     
+
+
+
 
 ## DELETE API View for Employee Details
      http://localhost:8000/employee/api/<employee_id>/delete
 
      example:
      http://localhost:8000/employee/api/1/delete
+     
+   <img src="images/DELETE.png" alt="DELETE" width="75%"/>
+   
+   
+   <img src="images/DELETE_postman.png" alt="DELETE_postman" width="75%"/>
      
      
 ## Feedback
