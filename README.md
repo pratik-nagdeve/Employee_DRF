@@ -20,17 +20,17 @@ clone the repository
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
 
-     ![Alt text](images/GET.png?raw=true "GET")
+     <img src="https://github.com/tadiparChinese/Employee_DRF/blob/master/images/GET.png">
      
-     ![Alt text](images/GET_postman.png?raw=true "GET_postman")
+     ![](images/GET_postman.png)
 
 
 ## CREATE API View for Employee Details (POST)
      http://localhost:8000/employee/api/create
 
-     ![Alt text](images/POST.png?raw=true "POST")
+     ![](images/POST.png)
      
-     ![Alt text](images/POST_postman.png?raw=true "POST_postman")
+     ![](images/POST_postman.png)
 
 
 ## UPDATE API View for Employee (PUT or PATCH request)
@@ -39,9 +39,9 @@ clone the repository
      example:
      http://localhost:8000/employee/api/1
 
-     ![Alt text](images/PUT.png?raw=true "PUT")
+     ![](images/PUT.png?raw=true "PUT")
      
-     ![Alt text](images/PUT_postman.png?raw=true "PUT_postman")
+     ![](images/PUT_postman.png?)
 
 ## DELETE API View for Employee Details
      http://localhost:8000/employee/api/<employee_id>/delete
@@ -49,6 +49,6 @@ clone the repository
      example:
      http://localhost:8000/employee/api/1/delete
 
-     ![Alt text](images/DELETE.png?raw=true "DELETE")
+     ![](images/DELETE.png)
      
-     ![Alt text](images/DELETE_postman.png?raw=true "DELETE_postman")
+     ![](images/DELETE_postman.png)
