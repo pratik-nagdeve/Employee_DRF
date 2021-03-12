@@ -4,18 +4,38 @@
 
 
 1. Create Virtual Environment and activate it
+ > cd drf
+
+   **Clone the repository**
+    ```
+    git clone https://github.com/tadiparChinese/Employee_DRF
+    ```
+
+   Once inside the project folder run: 
+
+    virtualenv env
+    
+   Activate virtualenv 
+   On Windows, virtualenv (venv) creates a batch file called 
+
+   ```
+   \env\Scripts\activate.bat
+   ```
 
 2. Install required libraries with Requirements.txt file
-    > pip install -r requirements.txt
+   ```
+    pip install -r requirements.txt
+   ```
 
 3. Creating a new Django Project and Initial setup for DRF
-    > cd drf
 
+    ```
     python manage.py makemigrations
 
     python manage.py migrate
 
     python manage.py runserver
+    ```
 
 4. Login Password
     ```
