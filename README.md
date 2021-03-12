@@ -10,8 +10,11 @@ clone the repository
 
 3. Creating a new Django Project and Initial setup for DRF
     > cd drf
+
     python manage.py makemigrations
+
     python manage.py migrate
+
     python manage.py runserver
 
 ## LIST API View for Employee Details
@@ -23,7 +26,13 @@ clone the repository
 
 
 ## UPDATE API View for Employee (PUT or PATCH request)
+     http://localhost:8000/employee/api/<employee_id>
+     
+     example:
      http://localhost:8000/employee/api/1
 
 ## DELETE API View for Employee Details
+     http://localhost:8000/employee/api/<employee_id>/delete
+
+     example:
      http://localhost:8000/employee/api/1/delete
