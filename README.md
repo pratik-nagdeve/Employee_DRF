@@ -10,7 +10,9 @@
 
    Once inside the project folder run: 
 
+    ```
     virtualenv env
+    ```
 
    Activate virtualenv 
    On Windows, virtualenv (venv) creates a batch file called 
