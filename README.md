@@ -20,15 +20,13 @@ clone the repository
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
 
-     ![Screenshot](GET.png)
-
-     <img src="images/GET.png"> | <img src="images/GET_postman.png">
+     ![Alt text](images/GET.png?raw=true "GET") | ![Alt text](images/GET_postman.png?raw=true "GET_postman")
 
 
 ## CREATE API View for Employee Details (POST)
      http://localhost:8000/employee/api/create
 
-     <img src="images/POST.png"> | <img src="images/POST_postman.png">
+     ![Alt text](images/POST.png?raw=true "POST") | ![Alt text](images/POST_postman.png?raw=true "POST_postman")
 
 
 ## UPDATE API View for Employee (PUT or PATCH request)
@@ -37,7 +35,7 @@ clone the repository
      example:
      http://localhost:8000/employee/api/1
 
-     <img src="images/PUT.png"> | <img src="images/PUT_postman.png">
+     ![Alt text](images/PUT.png?raw=true "PUT") | ![Alt text](images/PUT_postman.png?raw=true "PUT_postman")
 
 ## DELETE API View for Employee Details
      http://localhost:8000/employee/api/<employee_id>/delete
@@ -45,4 +43,4 @@ clone the repository
      example:
      http://localhost:8000/employee/api/1/delete
 
-     <img src="images/DELETE.png"> | <img src="images/DELETE_postman.png">
+     ![Alt text](images/DELETE.png?raw=true "DELETE") | ![Alt text](images/DELETE_postman.png?raw=true "DELETE_postman")
