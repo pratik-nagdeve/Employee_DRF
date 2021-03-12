@@ -14,13 +14,12 @@ clone the repository
     > python manage.py migrate
     > python manage.py runserver
 
-
-## CREATE API View for Employee Details
-    > http://localhost:8000/employee/api/create
-    
-
 ## LIST API View for Employee Details
     > http://localhost:8000/employee/api
+
+
+## CREATE API View for Employee Details (POST)
+    > http://localhost:8000/employee/api/create
 
 
 ## UPDATE API View for Employee (PUT or PATCH request)
