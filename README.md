@@ -11,11 +11,11 @@ clone the repository
 3. Creating a new Django Project and Initial setup for DRF
     > cd drf
 
-    python manage.py makemigrations
+    > python manage.py makemigrations
 
-    python manage.py migrate
+    > python manage.py migrate
 
-    python manage.py runserver
+    > python manage.py runserver
 
 ## LIST API View for Employee Details
      http://localhost:8000/employee/api
